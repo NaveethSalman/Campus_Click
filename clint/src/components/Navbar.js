@@ -14,7 +14,7 @@ function Navbar() {
       <nav className="navbar navbar-expand-lg">
         <div className="container-fluid">
           <a className="navbar-brand" href="#">
-            Book Me
+            Campus Click
           </a>
           <button
             className="navbar-toggler"
